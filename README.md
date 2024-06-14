@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation and supplementary materials for the [paper](https://arxiv.org/abs/2403.12009) titled "Leveraging Spatial and Semantic Feature Extraction for Skin Cancer Diagnosis with Capsule Networks and Graph Neural Networks." To build this model, we adopted Han, et. al. Vision GNN and incorporated capsule networks to analyze its performance on skin lesion classification. 
+This repository contains the implementation and supplementary materials for the [paper](https://arxiv.org/abs/2403.12009) titled "Leveraging Spatial and Semantic Feature Extraction for Skin Cancer Diagnosis with Capsule Networks and Graph Neural Networks." To build this model, we adopted Han, et. al. [Vision GNN](https://arxiv.org/abs/2206.00272) and incorporated capsule networks to analyze its performance on skin lesion classification. 
 
 ## Abstract
 
