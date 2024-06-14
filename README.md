@@ -38,6 +38,6 @@ Our model outperformed established benchmarks:
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/skin-cancer-diagnosis.git
+git clone https://github.com/echelon2718/ViG-GNN-HAM10000.git
 cd skin-cancer-diagnosis
 pip install -r requirements.txt
